@@ -1,0 +1,40 @@
+﻿"Phrases"
+{
+	"FlTitle"
+	{
+		"#format"	"{1:s}"
+		"en"		"Hosties3 - {1}"
+		"de"		"Hosties3 - {1}"
+	}
+
+	"FlCredits"
+	{
+		"en"		"Credits:"
+		"de"		"Credits:"
+	}
+
+	"FlDesc"
+	{
+		"en"		"Description:"
+		"de"		"Beschreibung:"
+	}
+	
+	"FlVIP"
+	{
+		"en"		"VIP Feature"
+		"de"		"VIP Feature"
+	}
+	
+	"FlPoints"
+	{
+		"#format"	"{1:d}"
+		"en"		"Points required: {1}"
+		"de"		"Erforderliche Punkte: {1}"
+	}
+	
+	"FlBack"
+	{
+		"en"		"Back"
+		"de"		"Zurück"
+	}
+}

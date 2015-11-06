@@ -1,0 +1,40 @@
+﻿"Phrases"
+{
+	"RebelsTitle"
+	{
+		"en"		"List of Rebels:"
+		"de"		"Liste der Rebellen:"
+		"fr"		"Liste des rebelles:"
+		"ru"		"Список бунтующих:"
+		"cz"		"Seznam rebelů:"
+	}
+
+	"NoRebels"
+	{
+		"en"		"No active rebels"
+		"de"		"Keine aktiven Rebellen"
+		"fr"		"Aucun rebelle"
+		"ru"		"Нет бунтующих:"
+		"cz"		"Momenálně zde není žádný rebel"
+	}
+
+	"Close"
+	{
+		"en"		"Close"
+		"de"		"Schliessen"
+		"fr"		"Fermer"
+		"ru"		"Закрыть"
+		"cz"		"Zavřít"
+	}
+
+	"Suicide"
+	{
+		"#format"	"{1:s},{2:N}"
+
+		"en"		"{1} {orange}{2} {lightgreen}committed suicide!"
+		"de"		"{1} {orange}{2} {lightgreen}beging Selbstmord!"
+		"fr"		"{1} {orange}{2} {lightgreen}s'est suicidé !"
+		"ru"		"{1} {orange}{2} {lightgreen}покончил собой!"
+		"cz"		"{1} {orange}{2} {lightgreen}spálach sebevraždu "
+	}
+}

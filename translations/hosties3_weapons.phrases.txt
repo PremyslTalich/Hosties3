@@ -1,0 +1,13 @@
+﻿"Phrases"
+{
+	"GetWeapon"
+	{
+		"#format"	"{1:s},{2:s}"
+
+		"en"		"{1} You receive: {orange}{2}"
+		"de"		"{1} Sie erhalten: {orange}{2}"
+		"fr"		"{1} Vous recevez: {orange}{2}"
+		"ru"		"{1} Вы получили: {orange}{2}"
+		"cz"		"{1} Získal jsi: {orange}{2}"
+	}
+}

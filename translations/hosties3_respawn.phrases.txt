@@ -1,0 +1,57 @@
+﻿"Phrases"
+{
+	"CommandDisabled"
+	{
+		"#format"	"{1:s}"
+
+		"en"		"{1} Command disabled!"
+		"de"		"{1} Befehl ist deaktiviert!"
+		"fr"		"{1} Commande désactivée!"
+		"ru"		"{1} Эта команда выключена!"
+		"cz"		"{1} Příkaz je v současné době zakázaný!"
+	}
+
+	"InvalidParameter"
+	{
+		"#format"	"{1:s}"
+
+		"en"		"{1} sm_respawn <#userid|name>"
+		"de"		"{1} sm_respawn <#UserID|Name>"
+		"fr"		"{1} sm_respawn <#UserID|Name>"
+		"ru"		"{1} sm_respawn <#userid|name>"
+		"cz"		"{1} sm_respawn <#userid|name>"
+	}
+
+	"TargetInvalid"
+	{
+		"#format"	"{1:s}"
+
+		"en"		"{1} Invalid target!"
+		"de"		"{1} Ziel ist ungültig!"
+		"fr"		"{1} Mauvaise cible!"
+		"ru"		"{1} Цель недоступна!"
+		"cz"		"{1} Nepltaný hráč!"
+	}
+
+	"TargetInvalidTeam"
+	{
+		"#format"	"{1:s}"
+
+		"en"		"{1} Target is in an invalid team!"
+		"de"		"{1} Ziel ist im falschen Team!"
+		"fr"		"{1} La cible est dans une mauvaise équipe!"
+		"ru"		"{1} Цель находится в неправильной команде!"
+		"cz"		"{1} Hráč je ve špatném týmu!"
+	}
+
+	"PlayerRespawned"
+	{
+		"#format"	"{1:s},{2:N},{3:N}"
+
+		"en"		"{1} {orange}{2} {lightgreen}was respawned by {orange}{3}{lightgreen}!"
+		"de"		"{1} {orange}{2} {lightgreen}wurde von {orange}{3} {lightgreen}wiederbelebt!"
+		"fr"		"{1} {orange}{2} {lightgreen}a été ressuscité par {orange}{3}{lightgreen}!"
+		"ru"		"{1} {orange}{2} {lightgreen}был возрожден игроком {orange}{3}{lightgreen}!"
+		"cz"		"{1} {orange}{3} {lightgreen}oživil hráče {orange}{2}{lightgreen}!"
+	}
+}

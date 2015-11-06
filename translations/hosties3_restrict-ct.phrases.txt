@@ -1,0 +1,8 @@
+﻿"Phrases"
+{
+	"NotEnoughPoints"
+	{
+		"en"		"You haven't enough points!"
+		"de"		"Sie haben nicht genug Punkte!"
+	}
+}

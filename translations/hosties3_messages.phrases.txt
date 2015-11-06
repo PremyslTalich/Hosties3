@@ -1,0 +1,72 @@
+﻿"Phrases"
+{
+	"Connect"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) joined the game from {orange}{COUNTRY}{lightgreen}({orange}{COUNTRYCODE2}{lightgreen}/{ORANGE}{COUNTRYCODE3}{lightgreen})!"
+		"de"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) betritt das Spiel aus {orange}{COUNTRY}{lightgreen}({orange}{COUNTRYCODE2}{lightgreen}/{ORANGE}{COUNTRYCODE3}{lightgreen})!"
+	}
+
+	"Disconnect"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) left the game from {orange}{COUNTRY}{lightgreen}({orange}{COUNTRYCODE2}{lightgreen}/{ORANGE}{COUNTRYCODE3}{lightgreen})!"
+		"de"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) verlässt das Spiel aus {orange}{COUNTRY}{lightgreen}({orange}{COUNTRYCODE2}{lightgreen}/{ORANGE}{COUNTRYCODE3}{lightgreen})!"
+	}
+
+	"Spectator"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) is joining the Spectators."
+		"de"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) tritt den Zuschauern bei."
+	}
+
+	"Terrorist"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) is joining the Terrorist force."
+		"de"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) tritt der Terroristengruppe bei."
+	}
+
+	"CounterTerrorist"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) is joining the Counter-Terrorist force."
+		"de"				"{1} {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) tritt der Antiterroreinheit bei."
+	}
+
+	"VIP_Connect"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) joined the game from {orange}{COUNTRY}{lightgreen}({orange}{COUNTRYCODE2}{lightgreen}/{ORANGE}{COUNTRYCODE3}{lightgreen})!"
+		"de"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) betritt das Spiel aus {orange}{COUNTRY}{lightgreen}({orange}{COUNTRYCODE2}{lightgreen}/{ORANGE}{COUNTRYCODE3}{lightgreen})!"
+	}
+
+	"VIP_Disconnect"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) left the game from {orange}{COUNTRY}{lightgreen}({orange}{COUNTRYCODE2}{lightgreen}/{ORANGE}{COUNTRYCODE3}{lightgreen})!"
+		"de"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) verlässt das Spiel aus {orange}{COUNTRY}{lightgreen}({orange}{COUNTRYCODE2}{lightgreen}/{ORANGE}{COUNTRYCODE3}{lightgreen})!"
+	}
+
+	"VIP_Spectator"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) is joining the Spectators."
+		"de"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) tritt den Zuschauern bei."
+	}
+
+	"VIP_Terrorist"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) is joining the Terrorist force."
+		"de"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) tritt der Terroristengruppe bei."
+	}
+
+	"VIP_CounterTerrorist"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) is joining the Counter-Terrorist force."
+		"de"				"{1} {darkred}VIP {orange}{NAME} {lightgreen}({orange}{STEAMID2}{lightgreen}/{ORANGE}{IP}{lightgreen}) tritt der Antiterroreinheit bei."
+	}
+}

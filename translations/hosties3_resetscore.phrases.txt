@@ -1,0 +1,9 @@
+﻿"Phrases"
+{
+	"ScoreReset"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"{1} {orange}{2} {lightgreen}has just reseted his score.!"
+		"de"		"{1} {orange}{2} {lightgreen}hat sein Score zurückgesetzt!"
+	}
+}

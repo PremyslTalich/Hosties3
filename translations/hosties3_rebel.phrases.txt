@@ -1,0 +1,32 @@
+﻿"Phrases"
+{
+	"Rebel"
+	{
+		"#format"	"{1:s},{2:N}"
+
+		"en"		"{1} {orange}{2} {lightgreen}is a rebel now!"
+		"de"		"{1} {orange}{2} {lightgreen}ist nun ein Rebel!"
+		"fr"		"{1} {orange}{2} {lightgreen}est à présent un rebelle!"
+		"ru"		"{1} {orange}{2} {lightgreen}бунтует!"
+		"cz"		"{1} {orange}{2} {lightgreen}se stal rebelem!"
+	}
+
+	"NoRebel"
+	{
+		"#format"	"{1:s},{2:N}"
+
+		"en"		"{1} {orange}{2} {lightgreen}is no longer a rebel!"
+		"de"		"{1} {orange}{2} {lightgreen}ist kein Rebel mehr!"
+		"fr"		"{1} {orange}{2} {lightgreen}n'est plus un rebelle!"
+		"ru"		"{1} {orange}{2} {lightgreen}больше не бунтующий!"
+		"cz"		"{1} {orange}{2} {lightgreen}již není rebelem!"
+	}
+
+	"RebelDead"
+	{
+		"#format"	"{1:s},{2:N}"
+
+		"en"		"{1} {lightgreen}Rebel {orange}{2} {lightgreen}is now dead!"
+		"de"		"{1} {lightgreen}Rebel {orange}{2} {lightgreen}ist nun tot!"
+	}
+}

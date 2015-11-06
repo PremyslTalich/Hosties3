@@ -1,0 +1,89 @@
+"Phrases"
+{
+	"OwnPoints"
+	{
+		"#format"	"{1:s},{2:d}"
+
+		"en"		"{1} {orange}You {lightgreen}have {orange}{2} {lightgreen}points!"
+		"de"		"{1} {orange}Sie {lightgreen}haben {orange}{2} {lightgreen}Punkte!"
+		"cz"		"{1} {lightgreen}Máš {orange}{2} {lightgreen}bodů!"
+	}
+
+	"OtherPoints"
+	{
+		"#format"	"{1:s},{2:N},{3:d}"
+
+		"en"		"{1} {orange}{2} {lightgreen}has {orange}{3} {lightgreen}points!"
+		"de"		"{1} {orange}{2} {lightgreen}hat {orange}{3} {lightgreen}Punkte!"
+		"cz"		"{1} {orange}{2} {lightgreen}má {orange}{3} {lightgreen}bodů!"
+	}
+
+	"PointsEarned"
+	{
+		"#format"	"{1:s},{2:d}"
+
+		"en"		"{1} {orange}You {lightgreen}earned {orange}{2} Points{lightgreen}!"
+		"de"		"{1} {orange}Sie {lightgreen}erhalten {orange}{2} Punkte{lightgreen}!"
+		"cz"		"{1} {orange}Získal jsi {lightgreen}{2} {orange}bodů!"
+	}
+
+	"PointsTaken"
+	{
+		"#format"	"{1:s},{2:d}"
+
+		"en"		"{1} {orange}You {lightgreen}lost {orange}{2} Points{lightgreen}!"
+		"de"		"{1} {orange}Sie {lightgreen}verlieren {orange}{2} Punkte{lightgreen}!"
+		"cz"		"{1} {orange}Získal jsi {lightgreen}{2} {orange}bodů!"
+	}
+
+	"PointsSet"
+	{
+		"#format"	"{1:s},{2:d}"
+
+		"en"		"{1} {orange}You {lightgreen}have now {orange}{2} Points{lightgreen}!"
+		"de"		"{1} {orange}Sie {lightgreen}haben nun {orange}{2} Punkte{lightgreen}!"
+		"cz"		"{1} {orange}Získal jsi {lightgreen}{2} {orange}bodů!"
+	}
+
+	"PointsReset"
+	{
+		"en"		"{orange}You {lightgreen}points were reset!"
+		"de"		"{orange}Deine {lightgreen}Punkte wurden zurückgesetzt!"
+	}
+
+	"InvalidTarget"
+	{
+		"#format"	"{1:s},{2:d}"
+
+		"en"		"{1} Client (#{2}) is invalid!"
+		"de"		"{1} Client (#{2}) ist ungültig!"
+	}
+
+	"Admin_AddPoints"
+	{
+		"#format"	"{1:s},{2:N},{3:d}"
+		"en"		"{1} You gave {orange}{2} {3} {lightgreen}Points!"
+		"de"		"{1} Sie gaben {orange}{2} {3} {lightgreen}Punkte!"
+	}
+
+	"Admin_DelPoints"
+	{
+		"#format"	"{1:s},{2:d},{3:N}"
+		"en"		"{1} You took {orange}{2} {lightgreen}points from {orange}{3}{lightgreen}!"
+		"de"		"{1} Du hast {orange}{2} {lightgreen}Punkte von {orange}{3} {lightgreen}genommen!"
+	}
+
+	"Admin_SetPoints"
+	{
+		"#format"	"{1:s},{2:N},{3:d}"
+		"en"		"{1} You set the Points of {orange}{2} {lightgreen}to {orange}{3}{lightgreen}!"
+		"de"		"{1} Sie setzen die Punkte von {orange}{2} {lightgreen}auf {orange}{3}{lightgreen}!"
+	}
+
+	"Admin_ResPoints"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"{1} You've reset the Points of {orange}{2}{lightgreen}!"
+		"de"		"{1} Sie haben die Punkte von {orange}{2} {lightgreen}zurückgesetzt!"
+	}
+}

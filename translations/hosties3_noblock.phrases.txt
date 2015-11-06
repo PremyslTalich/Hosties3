@@ -1,0 +1,79 @@
+﻿"Phrases"
+{
+	"NoBlock On"
+	{
+		"en"		"NoBlock was activated!"
+		"de"		"NoBlock wurde aktiviert!"
+		"fr"		"NoBlock a été activé!"
+		"ru"		"NoBlock включен!"
+		"cz"		"NoBlock aktivován"
+	}
+
+	"NoBlock Off"
+	{
+		"en"		"NoBlock was deactivated!"
+		"de"		"NoBlock wurde deaktiviert!"
+		"fr"		"NoBlock a été désactivé!"
+		"run"		"NoBlock выключен!"
+		"cz"		"Noblock vypnut"
+	}
+
+	"Activate"
+	{
+		"en"		"activate"
+		"de"		"aktivieren"
+		"fr"		"activer"
+		"ru"		"включить"
+		"cz"		"aktivovat"
+	}
+
+	"Deactivate"
+	{
+		"en"		"deactivate"
+		"de"		"deaktivieren"
+		"fr"		"désactiver"
+		"ru"		"выключить"
+		"cz"		"vypnout"
+	}
+
+	"NoBlock Menu Time"
+	{
+		"#format"	"{1:.0f}"
+
+		"en"		"activate for {1} seconds"
+		"de"		"für {1} Sekunden aktivieren"
+		"fr"		"activer pour {1} secondes"
+		"ru"		"включить на {1} секунд"
+		"cz"		"aktivován na {1} sec"
+	}
+
+	"NoBlock Menu Title"
+	{
+		"en"		"No Block"
+		"de"		"No Block"
+	}
+
+	"NoBlock Menu Activate"
+	{
+		"en"		"activate"
+		"de"		"aktivieren"
+		"fr"		"activer"
+		"ru"		"включить"
+		"cz"		"aktivovat"
+	}
+
+	"NoBlock Menu Deactivate"
+	{
+		"en"		"deactivate"
+		"de"		"deaktivieren"
+		"fr"		"désactiver"
+		"ru"		"выключить"
+		"cz"		"vypnout"
+	}
+
+	"WrongTeam"
+	{
+		"en"		"You're in a wrong team!"
+		"de"		"Sie sind in ein falsches Team!"
+	}
+}

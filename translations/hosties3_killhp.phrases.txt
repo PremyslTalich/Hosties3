@@ -1,0 +1,16 @@
+﻿"Phrases"
+{
+	"NormalKill"
+	{
+		"#format"		"{1:s},{2:d},{3:N}"
+		"en"				"{1} {orange}You {lightgreen}earn {orange}{2} {lightgreen}hp for killing {orange}{3}{lightgreen}!"
+		"de"				"{1} {orange}Sie {lightgreen}erhalten {orange}{2} {lightgreen}HP für den Tot an {orange}{3}{lightgreen}!"
+	}
+
+	"HeadshotKill"
+	{
+		"#format"		"{1:s},{2:d},{3:N}"
+		"en"				"{1} {orange}You {lightgreen}earn {orange}{2} {lightgreen}hp for killing {orange}{3} {lightgreen}with a headshot!"
+		"de"				"{1} {orange}Sie {lightgreen}erhalten {orange}{2} {lightgreen}HP für den Tot an {orange}{3} {lightgreen}mit einen Kopfschuss!"
+	}
+}

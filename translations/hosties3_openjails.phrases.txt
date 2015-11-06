@@ -1,0 +1,13 @@
+﻿"Phrases"
+{
+	"UseOpenJails"
+	{
+		"#format"	"{1:s},{2:N}"
+
+		"en"		"{1} {orange}{2} {lightgreen}opened the cells!"
+		"de"		"{1} {orange}{2} {lightgreen}hat die Zellen geöffnet!"
+		"fr"		"{1} {orange}{2} {lightgreen}a ouvert les cellules!"
+		"ru"		"{1} {orange}{2} {lightgreen}открыл камеры!"
+		"cz"		"{1} {orange}{2} {lightgreen}východy z cel jsou otevřené"
+	}
+}

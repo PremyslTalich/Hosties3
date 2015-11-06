@@ -1,0 +1,111 @@
+﻿"Phrases"
+{
+	"ServerRulesTitle"
+	{
+		"en"		"Server Rules"
+		"de"		"Server Regeln"
+		"fr"		"Règles du serveur"
+		"ru"		"Правила сервера"
+		"cz"		"Pravidla serveru"
+	}
+
+	"ServerRulesBack"
+	{
+		"en"		"Back"
+		"de"		"Zurück"
+		"fr"		"Précédent"
+		"ru"		"Назад"
+		"cz"		"Zpět"
+	}
+
+	"CTRulesTitle"
+	{
+		"en"		"CT Rules"
+		"de"		"CT Regeln"
+		"fr"		"Règles des CT"
+		"ru"		"Правила для КТ"
+		"cz"		"Pravidla pro CT"
+	}
+
+	"CTRulesAccept"
+	{
+		"en"		"Accept the rules?"
+		"de"		"Regeln akzeptieren?"
+		"fr"		"Acceptez-vous les règles?"
+		"ru"		"Вы принимаете правила?"
+		"cz"		"Souhlasit s pravidly ?"
+	}
+
+	"CTRulesAcceptNot"
+	{
+		"en"		"Don't accept the rules?"
+		"de"		"Regeln nicht akzeptieren?"
+		"fr"		"N'acceptez-vous pas les règles?"
+		"ru"		"Вы не согласны с правилами?"
+		"cz"		"Nesouhlasit s pravidly?"
+	}
+
+	"CTRulesAccepted"
+	{
+		"#format" 	"{1:s},{2:N}"
+
+		"en"		"{1} {2} accepted the rules!"
+		"de"		"{1} {2} hat die Regeln akzeptiert!"
+		"fr"		"{1} {2} a accepté les règles!"
+		"ru"		"{1} {2} принял правила сервера!"
+		"cz"		"{1} {2} souhlasil s pravidly!"
+	}
+
+	"CTRulesAcceptedNot"
+	{
+		"#format" 	"{1:s},{2:N}"
+
+		"en"		"{1} {2} didn't accepted the rules!"
+		"de"		"{1} {2} hat die Regeln nicht akzeptiert!"
+		"fr"		"{1} {2} n'a pas accepté les règles!"
+		"ru"		"{1} {2} не принял правила сервера!"
+		"cz"		"{1} {2} nesouhlasí s pravidly!"
+	}
+
+	"PlayerMoved"
+	{
+		"#format"	"{1:s},{2:N}"
+
+		"en"		"{1} {2} didn't accept the rules and was moved to team T!"
+		"de"		"{1} {2} hat die Regeln nicht akzeptiert und wurde ins T Team verschoben!"
+		"fr"		"{1} {2} n'a pas accepté les règles et a été déplacé dans l'équipe T!"
+		"ru"		"{1} {2} не принял правила сервера, и будет перемещен в команду Т!"
+		"cz"		"{1} {2} nesouhlasí s pravidly a byl přesunut k T!"
+	}
+
+	"PlayerSlayed"
+	{
+		"#format"	"{1:s},{2:N}"
+
+		"en"		"{1} {2} didn't accept the rules and was slayed!"
+		"de"		"{1} {2} hat die Regeln nicht akzeptiert und wurde erschlagen!"
+		"fr"		"{1} {2} n'a pas accepté les règles et a été tué!"
+		"ru"		"{1} {2} не принял правила сервера, и был убит!"
+		"cz"		"{1} {2} Nesouhlasí s pravidly a byl zabit!"
+	}
+
+	"PlayerKickReason"
+	{
+		"en"		"You didn't accept the rules!"
+		"de"		"Sie haben die Regeln nicht akzeptiert!"
+		"fr"		"Vous n'avez pas acceptez les règles!"
+		"ru"		"Вы не согласились с правилами сервера!"
+		"cz"		"Nesouhlasíš s pravidly!"
+	}
+
+	"PlayerKicked"
+	{
+		"#format"	"{1:s},{2:N}"
+
+		"en"		"{1} {2} didn't accept the rules and was kicked!"
+		"de"		"{1} {2} hat die Regeln nicht akzeptiert und wurde vom Server geworfen!"
+		"fr"		"{1} {2} n'a pas accepté les règles et a été exclu de la partie!"
+		"ru"		"{1} {2} не принял правила сервера, и был кикнут с сервера!"
+		"cz"		"{1} {2} Nesouhlasí s pravidly a byl vyhozen ze serveru!"
+	}
+}

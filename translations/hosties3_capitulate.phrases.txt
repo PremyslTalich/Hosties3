@@ -1,0 +1,65 @@
+﻿"Phrases"
+{
+	"NoMoreCapitulate"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} You can't capitulate anymore!"
+		"de"		"{1} Sie können nicht mehr ergeben!"
+	}
+
+	"NotAlive"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} You aren't alive!"
+		"de"		"{1} Sie sind nicht am leben!"
+	}
+
+	"WrongTeam"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} You are in a wrong team!"
+		"de"		"{1} Sie sind im falschem Team!"
+	}
+
+	"NotEnoughAlive"
+	{
+		"#format"	"{1:s}"
+		"en"		"{1} The living terrorists aren't enough!"
+		"de"		"{1} Es leben nicht genug Terroristen!"
+	}
+
+	"SingleCapitulate"
+	{
+		"#format"	"{1:s},{2:N}"
+		"en"		"{1} {orange}{2} {lightgreen}has capitulated!"
+		"de"		"{1} {orange}{2} {lightgreen}hat sich ergeben!"
+	}
+
+	"MultiCapitulate"
+	{
+		"#format"	"{1:s},{2:N},{3:d},{4:d}"
+		"en"		"{1} {orange}{2} {lightgreen}has capitulated! [{3}/{4}]"
+		"de"		"{1} {orange}{2} {lightgreen}hat sich ergeben! [{3}/{4}]"
+	}
+
+	"NoWeaponsUse"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} You can't pickup a weapon!"
+		"de"				"{1} Sie können keine Waffen aufheben!"
+	}
+
+	"WeaponsUseAgain"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} You can pickup a weapon again!!"
+		"de"				"{1} Sie können wieder Waffen aufheben!"
+	}
+
+	"Already"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} You already capitulate!"
+		"de"				"{1} Sie ergeben sich bereits!"
+	}
+}

@@ -1,0 +1,23 @@
+﻿"Phrases"
+{
+	"Usage"
+	{
+		"#format"		"{1:s}"
+		"en"				"{1} Usage: {orange}sm_feedback <Message>"
+		"de"				"{1} Benutzung: {orange}sm_feedback <Nachricht>"
+	}
+
+	"Sended"
+	{
+		"#format"		"{1:s},{2:s}"
+		"en"				"{1} {orange}Thank you! {lightgreen}Feedback has been submitted. (Message: {orange}{2}{lightgreen})"
+		"de"				"{1} {orange}Danke dir! {lightgreen}Dein Feedback wurde eingerichtet. (Nachricht: {orange}{2}{lightgreen})"
+	}
+
+	"NotSended"
+	{
+		"#format"		"{1:s},{2:.0f}"
+		"en"				"{1} You can only use this every {orange}{2} {lightgreen}seconds!"
+		"de"				"{1} Sie können dies nur alle {orange}{2} {lightgreen}Sekunden benutzen!"
+	}
+}
