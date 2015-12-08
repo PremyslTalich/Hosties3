@@ -1,5 +1,5 @@
 # SM_Hosties V3
-by [Bara]((https://steamcommunity.com/id/bbara/))
+by [Bara](https://steamcommunity.com/id/bbara/))
 
 <h4> Description: </h4>
 
